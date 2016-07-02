@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: Gather-Tech.infoについて
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+毎日RSSを流し込んだり、はてブしたりと情報は集めているもののなかなか見返さないしすぐ忘れることが多い今日この頃。
+Weeklyで個人的に特に気になった記事をまとめてみるかーと思い実験的に開始することにしました。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+ある特定の分野に特化して情報を集めて発信するものは結構な数あるものの、色々な分野ごちゃ混ぜで発信するものはあまり見かけないので差別化になるかな？という思うも若干あります。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## コンセプト
+- 個人的に気になったもの中心
+  - その時その時で興味の対象が変わる可能性があるのでそこはご愛敬ということで
+- ある特定の分野に限ったまとまった情報を見たい人には不向き
+- なんとなく幅広く情報を追いたい人向け
+
+## 発行頻度
+- 日曜〜土曜を1スパンとして気になる情報を列挙する
+- 基本的には日曜 or 月曜に更新
+- 無理しない
