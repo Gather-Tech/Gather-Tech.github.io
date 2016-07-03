@@ -16,5 +16,9 @@ github_username:  braitom
 
 paginate: 5
 
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-45465111-4
+
 # Build settings
 markdown: kramdown
