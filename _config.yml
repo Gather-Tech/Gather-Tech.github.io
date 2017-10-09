@@ -14,7 +14,7 @@ url: "https://gather-tech.info/" # the base hostname & protocol for your site
 twitter_username: braitom
 github_username:  braitom
 
-paginate: 5
+paginate: 15
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
